@@ -1,4 +1,3 @@
-# Dappazon
 
 ## Technology Stack & Tools
 
